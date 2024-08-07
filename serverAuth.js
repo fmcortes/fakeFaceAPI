@@ -4,6 +4,14 @@ const auth = require("json-server-auth");
 const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 
+// Add custom middleware for CORS
+server.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*'); // Allow any origin
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 // /!\ Bind the router db to the app
 app.db = router.db;
 
