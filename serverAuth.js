@@ -6,9 +6,10 @@ const router = jsonServer.router("db.json");
 
 // Add custom middleware for CORS
 app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', 'http://localhost:4200')
   res.header('Access-Control-Allow-Origin', '*'); // Allow any origin
   res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  res.header('Access-Control-Allow-Headers', '*');
   next();
 });
 
