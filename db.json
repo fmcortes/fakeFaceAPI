@@ -17,7 +17,174 @@
       "notifications": "email",
       "age": 38,
       "image": "https://plus.unsplash.com/premium_photo-1689539137236-b68e436248de?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "id": 2
+      "id": 2,
+      "friends": [
+        {
+          "email": "Joshiani@mail.com",
+          "firstname": "Joshiani",
+          "lastname": "Ramirez",
+          "image": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "id": 3
+        },
+        {
+          "email": "fanny@mail.com",
+          "firstname": "Fanny",
+          "lastname": "Fonseca",
+          "notifications": "email",
+          "age": 37,
+          "image": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "id": 21
+        },
+        {
+          "email": "barbara@mail.com",
+          "firstname": "Barbara",
+          "lastname": "Cabrera",
+          "notifications": "email",
+          "image": "",
+          "id": 4
+        },
+        {
+          "email": "chinaRamz@mail.com",
+          "firstname": "Atzhin",
+          "lastname": "Ramirez",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 5
+        },
+        {
+          "email": "jhonBernardo@mail.com",
+          "firstname": "Juan",
+          "lastname": "Rosas",
+          "notifications": "email",
+          "age": 35,
+          "id": 6,
+          "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "email": "luis_carballo@mail.com",
+          "firstname": "Luis",
+          "lastname": "Carballo",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 7
+        },
+        {
+          "email": "marioSantos@mail.com",
+          "firstname": "Mario",
+          "lastname": "Santos",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 8
+        },
+        {
+          "email": "chuchoGalan@mail.com",
+          "firstname": "Jesus",
+          "lastname": "Algalan",
+          "notifications": "email",
+          "age": 35,
+          "id": 9
+        },
+        {
+          "email": "r.salazar@mail.com",
+          "firstname": "Ramon",
+          "lastname": "Salazar",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 10
+        },
+        {
+          "email": "marian.krystin@mail.com",
+          "firstname": "Marian",
+          "lastname": "Ramirez",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 11
+        },
+        {
+          "email": "danielaCortes@mail.com",
+          "firstname": "Daniela",
+          "lastname": "Cortes",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 12
+        },
+        {
+          "email": "raphaGorgori@mail.com",
+          "firstname": "Rafael",
+          "lastname": "Jiminez",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 13
+        },
+        {
+          "email": "lore_salgado@mail.com",
+          "firstname": "Lorena",
+          "lastname": "Salgado",
+          "notifications": "email",
+          "image": "",
+          "id": 14
+        },
+        {
+          "email": "bruno_cortes@mail.com",
+          "firstname": "Bruno",
+          "lastname": "Cortes",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 15
+        },
+        {
+          "email": "hercules_666@mail.com",
+          "firstname": "Hercules",
+          "lastname": "Alvarado",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 16
+        },
+        {
+          "email": "carlos_castillo@mail.com",
+          "firstname": "Carlos",
+          "lastname": "Castillo",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 17
+        },
+        {
+          "email": "isc_robert_capitanachi@mail.com",
+          "firstname": "Roberto",
+          "lastname": "Capitanachi",
+          "notifications": "email",
+          "image": "",
+          "id": 18
+        },
+        {
+          "email": "alex_velkan@mail.com",
+          "firstname": "Alejandro",
+          "lastname": "Capitanachi",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 19
+        },
+        {
+          "email": "oswaldo_189@mail.com",
+          "firstname": "Oswaldo",
+          "lastname": "Barcenas",
+          "notifications": "email",
+          "age": 35,
+          "image": "",
+          "id": 20
+        }
+      ]      
     },
     {
       "email": "Joshiani@mail.com",
