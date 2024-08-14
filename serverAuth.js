@@ -19,7 +19,7 @@ app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules
   users: 640,
-  post: 640,
+  post: 660,
   taglist: 640,
   groups: 640,
   comments: 640,
